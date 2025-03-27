@@ -1,2 +1,2 @@
-# Visualizador-de-Dados-M-dicos
+# Visualizador-de-Dados-Medicos
 Projetos para Certificação de Analises de Dados com Python
